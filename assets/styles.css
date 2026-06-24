@@ -711,6 +711,10 @@ blockquote footer {
   text-decoration: none;
 }
 
+.breadcrumbs a:hover {
+  color: var(--color-accent-dark);
+}
+
 .page-hero {
   padding: 70px 0 78px;
   color: #fff;
